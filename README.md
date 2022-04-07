@@ -13,7 +13,7 @@
  
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/christian-david-flor-astudillo-91716b193//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/christian-david-flor-astudillo//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 
 <br>
